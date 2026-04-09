@@ -1,4 +1,4 @@
-package com.klu.entity;
+  package com.klu.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
